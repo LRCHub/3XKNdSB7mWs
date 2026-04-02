@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "愛の言葉",
+  "base_artist": "きゃない",
+  "createdAt": "2026-04-02T03:19:47.563258Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛の言葉",
+      "artist": "7!!",
+      "has_synced": true,
+      "path": "select/01_愛の言葉_7!!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "08 愛の言葉",
+      "artist": "7!!",
+      "has_synced": true,
+      "path": "select/02_08_愛の言葉_7!!.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "愛の言葉 (Words of Love)",
+      "artist": "Lamp",
+      "has_synced": true,
+      "path": "select/03_愛の言葉_(Words_of_Love)_Lamp.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "愛の言葉 / Words Of Love",
+      "artist": "Lamp",
+      "has_synced": true,
+      "path": "select/04_愛の言葉___Words_Of_Love_Lamp.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛の言葉",
+      "artist": "きゃない",
+      "has_synced": false,
+      "path": "select/pl_01_愛の言葉_きゃない.txt"
+    }
+  ]
+}
